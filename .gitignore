@@ -1,0 +1,5 @@
+# Project exclude paths
+/03-01-whitelist-spring-boot-starter/target/
+/04-01-hystrix-spring-boot-starter/target/
+/05-01-ratelimiter-spring-boot-starter/target/
+/06-01-methodext-spring-boot-starter/target/
